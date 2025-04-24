@@ -1,9 +1,10 @@
 # Restaurant Management System (Laravel 9)
-![Project Banner](Screenshots/banner.png)
 
 [![GitHub stars](https://img.shields.io/github/stars/Al-shwaib/Restaurant-Management-System?style=social)](https://github.com/Al-shwaib/Restaurant-Management-System/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/Al-shwaib/Restaurant-Management-System)](https://github.com/Al-shwaib/Restaurant-Management-System/commits/main)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Al-shwaib/Restaurant-Management-System/actions)
+
+![Project Banner](Screenshots/banner.png)
 
 A modern academic web application built with Laravel, developed as a practical project for a university Web Development course. The system offers both a customer-facing website and a comprehensive admin dashboard for managing restaurant operations. Designed for educational purposes, the project demonstrates real-world application architecture and user experience practices.
 
