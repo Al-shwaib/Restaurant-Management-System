@@ -101,36 +101,6 @@ Resturant_Managment/
 └── ...
 ```
 
----
-
-## 💼 CV Highlights
-
-You can mention this project in your CV as follows:
-
-**Project Name:** Restaurant Management System (Academic Project)
-
-**Project Description:**
-Developed a web-based platform for restaurant management with a dual interface (Admin & Customer), supporting responsive design, light/dark mode, and multi-language features.
-
-**Key Skills & Technologies:**
-- UI/UX design with **Bootstrap 4** and **Font Awesome**
-- Interactive front-end using **jQuery**, **Axios**, **SweetAlert2**
-- Asset management with **Laravel Mix** and **Vite**
-- Modular system development: branches, tables, products, offers, orders, staff, customers, and invoices
-- Customer journey: browsing, offers, orders, favorites, and checkout
-- Responsive, fast, and user-friendly design
-- Multi-language and dark/light mode support
-
-**Soft Skills:**
-- Team collaboration on academic projects
-- Requirements analysis and feature prioritization
-- Applying UI/UX best practices
-
-**Screenshots:**
-Key interface screenshots are available in the `/Screenshots` folder and can be shared upon request or in your portfolio.
-
----
-
 ## 🙌 Contributors
 - Abdulkoddos Al-Showaib
 - Abdallah Alkhazragi
