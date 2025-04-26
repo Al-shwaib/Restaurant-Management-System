@@ -76,8 +76,6 @@ Screenshots of main system interfaces are available in the [`/Screenshots`](../S
 | Customer Home            | ![Customer Home](Screenshots/Screenshot-Home.png)     |
 | Cart & Checkout          | ![Cart](Screenshots/Screenshot-Cart.png)              |
 
-> _Replace the screenshot file names with real ones as needed._
-
 ---
 
 ## 📦 Project Structure
